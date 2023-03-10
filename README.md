@@ -1,1 +1,1 @@
-# Dev-Ops-Project
+Service discovery is a method of identifying and accessing devices and services automatically on a network. It is a common pattern followed in distributed systems and microservice architectures. Because servers in such an environment may be short-lived and relying on static IP addresses to connect with these systems is not reliable and may lead to system failures and errors.
