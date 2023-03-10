@@ -1,0 +1,9 @@
+"server" = false
+"datacenter" = "dc1"
+"data_dir" = "/var/consul"
+"encrypt" = "ZENZNrsXU336Uma+S4XUj9sxvICj32N7XdEzrbYbRpY="
+"log_level" = "INFO"
+"enable_script_checks" = true
+"enable_syslog" = true
+"leave_on_terminate" = true
+"start_join" = ["0.0.0.0"]
